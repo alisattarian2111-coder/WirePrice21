@@ -1,1 +1,37 @@
-{"checked_at":null,"items":[],"sources":[],"note":"Initial file. Run GitHub Actions workflow to collect available source price lists."}
+{
+  "checked_at": "2026-10-11T14:18:32.165009+00:00",
+  "items": [],
+  "sources": [
+    {
+      "name": "برق‌سان · افشارنژاد",
+      "url": "https://www.barghsan.com/%D9%84%DB%8C%D8%B3%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DB%8C%D9%85-%D9%88-%DA%A9%D8%A7%D8%A8%D9%84-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1%D9%86%DA%98%D8%A7%D8%AF/",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "name": "برق‌سان · سیمیا",
+      "url": "https://www.barghsan.com/simia-price-list/",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "name": "پرتو الکتریک",
+      "url": "https://parto-electric.com/",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "name": "راندنو · سیم و کابل",
+      "url": "https://randeno.com/itemslist/wire-and-cable",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "name": "کابل ایران · لیست همکاری",
+      "url": "https://cableiran.com/content/6-price-list",
+      "ok": true,
+      "items": 0
+    }
+  ],
+  "note": "Source pages are public price lists; scraped prices may be list/wholesale prices and must be verified with the seller."
+}
