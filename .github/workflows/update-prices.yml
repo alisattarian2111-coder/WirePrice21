@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Fix output path
+        run: sed -i 's/parents\[1\]/parent/' update_prices.py
+
       - name: Collect public price lists
         run: python update_prices.py
 
