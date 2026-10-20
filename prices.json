@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T05:53:08.000447+00:00",
+  "checked_at": "2026-10-20T05:52:46.113538+00:00",
   "items": [],
   "sources": [
     {
@@ -29,8 +29,9 @@
     {
       "name": "کابل ایران · لیست همکاری",
       "url": "https://cableiran.com/content/6-price-list",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
     }
   ],
   "note": "Source pages are public price lists; scraped prices may be list/wholesale prices and must be verified with the seller."
