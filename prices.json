@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T06:04:15.207408+00:00",
+  "checked_at": "2026-11-08T06:07:17.838196+00:00",
   "items": [],
   "sources": [
     {
@@ -23,8 +23,9 @@
     {
       "name": "راندنو · سیم و کابل",
       "url": "https://randeno.com/itemslist/wire-and-cable",
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "items": 0,
+      "error": "HTTP Error 504: Gateway Time-out"
     },
     {
       "name": "کابل ایران · لیست همکاری",
